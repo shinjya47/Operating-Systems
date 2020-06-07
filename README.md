@@ -1,0 +1,2 @@
+# Operating-Systems
+One of the main functions that the operating system does is managing the main memory of the device. Several bytes make up the main memory and each byte will have an address. This is accessed through the CPU and the program is loaded in the main memory for the program to run efficiently. The OS then tracks the main memory usage by each of the applications and the OS decides which memory should be allocated to which program and how much should be allocated. 
